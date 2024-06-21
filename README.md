@@ -5,3 +5,5 @@ Please note that while there are no known errors, this project was made as part 
 This is merely a demonstration of some of my earliest one of my earliest completed projects.
 
 All art is original fan art.
+
+Skills: Python, pygame, health system, manipulation of actors, collisions between actors, keeping score, resetting game
